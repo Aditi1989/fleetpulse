@@ -367,7 +367,7 @@ For questions or issues, please open a GitHub Issue.
 - Geospatial features powered by [PostGIS](https://postgis.net/)
 - Styled with [Tailwind CSS](https://tailwindcss.com/)
 
----
+
 
 
 ```
